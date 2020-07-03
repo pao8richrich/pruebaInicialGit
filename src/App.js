@@ -10,8 +10,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
 
-          esta es una prueba
-          
+          esta es una  sdnsndms
+
         </p>
         <a
           className="App-link"
